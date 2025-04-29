@@ -1,4 +1,4 @@
-# Lap Performance Forest
+# F1 Data processing & ML practice
 
 **Predict lap-time deviations** for F1 drivers using a Random Forest regression model in Azure Databricks.
 
